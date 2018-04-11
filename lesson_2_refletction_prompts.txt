@@ -1,0 +1,9 @@
+test
+
+What happens when you initialize a repository? 
+	initialize with git init
+
+
+
+Why do you need to do it?
+	else no repository
